@@ -200,7 +200,7 @@ button:focus {
     gap: 24px;
 }
 
-.container-person-one {
+.one {
     width: calc((100% - 72px) / 4);
 }
 
