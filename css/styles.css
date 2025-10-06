@@ -65,12 +65,9 @@ h3 {
     margin: 0 auto;
 }
 
-.container-header {
+.cont-heder {
     display: flex;
     align-items: center;
-    width: 1158px;
-    padding: 0 15px;
-    margin: 0 auto;
 }
 
 .section {
